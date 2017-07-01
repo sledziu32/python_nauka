@@ -31,5 +31,5 @@ print(x)
 y = int(0)
 y = 10 + 1.5 * 10
 print(y)
-print(int(y))
 print(type(y))
+print(int(y))
